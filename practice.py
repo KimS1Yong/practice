@@ -58,7 +58,7 @@ def game_loop():
                 quit()
         
         # 화면 그리기
-        screen.fill(BLACK)
+        screen.fill(GRAY)
         pygame.display.update()
 
 # 시작 메뉴 호출
