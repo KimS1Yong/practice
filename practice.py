@@ -58,7 +58,7 @@ def game_loop():
                 quit()
         
         # 화면 그리기
-        screen.fill(GRAY)
+        screen.fill(BLACK) #신입 수정부분
         pygame.display.update()
 
 # 시작 메뉴 호출
